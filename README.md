@@ -1,2 +1,6 @@
 # AI-Agent-Lab-UTE
-This place is used for learning AI-Agent in the class of UTE
+
+This repository is for learning AI Agent at UTE.
+
+## Members
+- Chau Minh Phat - 24110294
